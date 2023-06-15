@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+div.Star-Wars-div {
+  background-color: black;
+  padding: 100px 25px;
+  margin: 40;
+  perspective: 125px;
+}
+
+div.Title-div{
+  font-family: 'Anton', sans-serif;
+  font-size: 55px;
+  text-align: center;
+  color: black;   
+  text-shadow: 2px 2px 0 yellow, -2px -2px yellow, 2px -2px yellow, -2px 2px yellow, 0 2px yellow, 2px 0 yellow, -2px 0 yellow, 0 -2px yellow;
+  transform: rotateX(20deg);
+  -webkit-transform: rotateX(20deg);
+}
+div.Text-div{
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: black;   
+  text-shadow: 1px 1px 0 yellow, -1px -1px yellow, 1px -1px yellow, -1px 1px yellow, 0 1px yellow, 1px 0 yellow, -1px 0 yellow, 0 -1px yellow;
+  transform: rotateX(20deg);
+  -webkit-transform: rotateX(20deg);
+}

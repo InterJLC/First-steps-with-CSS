@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<div class="Star-Wars-div">
+ <div class="Title-div">
+  Star Wars Episode XII
+  </div>
+ <div class="Text-div">
+  Al imperio debes tu vencer, si con el mal acabar deseas 
+  </div>
+</div>
+<link href="ProjectTwo.css" rel="stylesheet" type="text/css">
